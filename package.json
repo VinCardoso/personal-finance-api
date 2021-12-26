@@ -1,0 +1,25 @@
+{
+  "name": "personal-finance-api",
+  "version": "1.0.0",
+  "description": "Project to learn development. Developing an API for a personal finance app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VinCardoso/personal-finance-api.git"
+  },
+  "author": "Vinicius Cardoso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VinCardoso/personal-finance-api/issues"
+  },
+  "homepage": "https://github.com/VinCardoso/personal-finance-api#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
